@@ -1,4 +1,6 @@
+.gitignore
 *.o
 patches
 dwm
 config.h
+tags
